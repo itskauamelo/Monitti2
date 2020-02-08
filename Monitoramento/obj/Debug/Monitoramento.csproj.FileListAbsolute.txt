@@ -1,0 +1,48 @@
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.exe.config
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.exe
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.pdb
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csprojAssemblyReference.cache
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Form1.resources
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Monitoramento.resources
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Properties.Resources.resources
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.GenerateResource.cache
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.exe
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.pdb
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\WebDriver.dll
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\WebDriver.xml
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CopyComplete
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaua.Morateli\Desktop\ \C#\Monitoramento\Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.exe.config
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.exe
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.pdb
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\WebDriver.dll
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\bin\Debug\WebDriver.xml
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Form1.resources
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Monitoramento.resources
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.exe
+C:\Users\T-Gamer\Desktop\Pendrive\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.pdb
+F:\C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.exe.config
+F:\C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.exe
+F:\C#\Monitoramento\Monitoramento\bin\Debug\Monitoramento.pdb
+F:\C#\Monitoramento\Monitoramento\bin\Debug\Newtonsoft.Json.dll
+F:\C#\Monitoramento\Monitoramento\bin\Debug\WebDriver.dll
+F:\C#\Monitoramento\Monitoramento\bin\Debug\Newtonsoft.Json.xml
+F:\C#\Monitoramento\Monitoramento\bin\Debug\WebDriver.xml
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csprojAssemblyReference.cache
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Form1.resources
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Monitoramento.resources
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.Properties.Resources.resources
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.GenerateResource.cache
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CoreCompileInputs.cache
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.csproj.CopyComplete
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.exe
+F:\C#\Monitoramento\Monitoramento\obj\Debug\Monitoramento.pdb
